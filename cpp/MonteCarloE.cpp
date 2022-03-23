@@ -6,7 +6,7 @@
 //*******************************************************************
 //	Author: Evan M. Cornuelle
 //	
-//	Description: Calculate Euler's Number by Monte Carlo "sum to 1"
+//	Description: Estimate Euler's Number by Monte Carlo "sum to 1"
 //
 //*******************************************************************
 
