@@ -5,7 +5,7 @@
 //*******************************************************************
 //	Author: Evan M. Cornuelle
 //	
-//	Description: Calculate Pi by random walk
+//	Description: Estimate Pi by random walk
 //
 //*******************************************************************
 
