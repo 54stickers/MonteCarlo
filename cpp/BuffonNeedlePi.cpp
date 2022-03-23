@@ -5,7 +5,7 @@
 //*******************************************************************
 //	Author: Evan M. Cornuelle
 //	
-//	Description: Calculate Pi by Buffon's Needle
+//	Description: Estimate Pi by Buffon's Needle
 //
 //*******************************************************************
 
