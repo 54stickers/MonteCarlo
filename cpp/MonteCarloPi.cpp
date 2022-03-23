@@ -5,7 +5,7 @@
 //***************************************************************
 //	Author: Evan M. Cornuelle
 //	
-//	Description: Calculate Pi by Monte Carlo circle in square
+//	Description: Estimate Pi by Monte Carlo circle in square
 //
 //***************************************************************
 
